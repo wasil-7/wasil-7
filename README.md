@@ -1,9 +1,9 @@
 <div align="center">
   <img src="https://i.pinimg.com/originals/95/8e/33/958e33cb9b699a6cfec9e75eb82e8eb4.gif" width="600" style="border-radius: 10px;" alt="Haikyuu Kenma GIF" />
   <br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=F3701E&center=true&vCenter=true&width=600&lines=Muhammad+Wasil+Kayani;Architecting+Spatial+Intelligence;Building+Deterministic+Loops" alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=F3701E&center=true&vCenter=true&width=600&lines=Muhammad+Wasil+Kayani;Deploying+Agentic+Workflows;Engineering+the+Unseen" alt="Typing Header" />
   <br>
-  <i>"Unbeknownst to the end-user, deterministic pipelines orchestrate the experience."</i>
+  <i>"Logic. Loops. Limer."</i>
 </div>
 <br>
 
@@ -29,18 +29,20 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=4b607f&height=2" alt="divider" />
-  <br><br>
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wasil-7&bg_color=0D1117&color=e8d8c9&line=f3701e&point=e8d8c9&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-  <br><br>
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wasil-7&layout=compact&bg_color=0D1117&title_color=f3701e&text_color=e8d8c9&hide_border=true" alt="Top Languages" />
-  <br><br>
-  <!-- Stats & Streak -->
-  <a href="https://github.com/wasil-7">
-    <img src="https://github-readme-stats.vercel.app/api?username=wasil-7&bg_color=0D1117&title_color=f3701e&text_color=e8d8c9&icon_color=4b607f&show_icons=true&hide_border=true" alt="GitHub Stats" />
-  </a>
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wasil-7&background=0D1117&ring=f3701e&fire=f3701e&currStreakNum=e8d8c9&sideNums=e8d8c9&currStreakLabel=4b607f&sideLabels=4b607f&hide_border=true" alt="GitHub Streak" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=4b607f&height=2" alt="divider" />
+<br><br>
+
+<!-- Activity Graph using a stable alternative host -->
+<img src="https://github-readme-activity-graph.tarptaeya.com/graph?username=wasil-7&bg_color=0D1117&color=e8d8c9&line=f3701e&point=e8d8c9&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+<br><br>
+
+<!-- Top Languages using stable demolab -->
+<img src="https://readme-stats.demolab.com/api/top-langs/?username=wasil-7&layout=compact&bg_color=0D1117&title_color=f3701e&text_color=e8d8c9&hide_border=true" alt="Top Languages" />
+<br><br>
+
+<!-- Stats & Streak side-by-side using stable demolab -->
+<img src="https://readme-stats.demolab.com/api?username=wasil-7&bg_color=0D1117&title_color=f3701e&text_color=e8d8c9&icon_color=4b607f&show_icons=true&hide_border=true" alt="GitHub Stats" />
+&nbsp;
+<img src="https://streak-stats.demolab.com/?user=wasil-7&background=0D1117&ring=f3701e&fire=f3701e&currStreakNum=e8d8c9&sideNums=e8d8c9&currStreakLabel=4b607f&sideLabels=4b607f&hide_border=true" alt="GitHub Streak" />
+
 </div>
