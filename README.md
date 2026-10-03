@@ -43,7 +43,7 @@ Data Science undergrad at FAST-NUCES. I build pragmatic AI pipelines, design sca
 
 ### 📊 GitHub Activity
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=wasil-7&bg_color=0D1117&color=e8d8c9&line=f3701e&point=e8d8c9&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wasil-7&bg_color=0D1117&color=e8d8c9&line=f3701e&point=e8d8c9&area=true&hide_border=true&v=1" width="100%" alt="Activity Graph" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasil-7&layout=compact&bg_color=0D1117&title_color=f3701e&text_color=e8d8c9&hide_border=true" alt="Top Languages" />
   <br><br>
