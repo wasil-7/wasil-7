@@ -43,13 +43,11 @@ Data Science undergrad at FAST-NUCES. I build pragmatic AI pipelines, design sca
 
 ### 📊 GitHub Activity
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wasil-7&bg_color=0D1117&color=e8d8c9&line=f3701e&point=e8d8c9&area=true&hide_border=true&cache_bust=3" width="100%" alt="Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wasil-7&theme=gotham" width="100%" alt="Profile Details" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasil-7&layout=compact&bg_color=0D1117&title_color=f3701e&text_color=e8d8c9&hide_border=true" alt="Top Languages" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=wasil-7&bg_color=0D1117&title_color=f3701e&text_color=e8d8c9&icon_color=4b607f&show_icons=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wasil-7&theme=gotham" width="48%" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wasil-7&background=0D1117&ring=f3701e&fire=f3701e&currStreakNum=e8d8c9&sideNums=e8d8c9&currStreakLabel=4b607f&sideLabels=4b607f&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wasil-7&theme=gotham" width="48%" alt="Top Languages by Repo" />
 </div>
 
 <br>
