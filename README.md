@@ -11,7 +11,7 @@ Data Science undergrad at FAST-NUCES. I build pragmatic AI pipelines, design sca
 **Research & Engineering Domains:**
 * 🧠 **XAI & Research:** Computational Aesthetics (Agentic AI vs. Historical Art eras).
 * ⚙️ **AI/ML & Automation:** MLOps, deterministic automation loops, and multi-modal RAG systems.
-* 👁️ **Areas of Interest:** Spatial Intelligence-currently exploring 3D Gaussian Splatting and SLAM.
+* 👁️ **Areas of Interest:** Spatial Intelligence—currently exploring 3D Gaussian Splatting and SLAM.
 
 ### 🌐 Socials
 <p align="left">
@@ -43,19 +43,18 @@ Data Science undergrad at FAST-NUCES. I build pragmatic AI pipelines, design sca
 
 ### 📊 GitHub Activity
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wasil-7&bg_color=0D1117&color=e8d8c9&line=f3701e&point=e8d8c9&area=true&hide_border=true&v=1" width="100%" alt="Activity Graph" />
+  <br>
+  <img src="https://readme-stats.demolab.com/api/top-langs/?username=wasil-7&layout=compact&bg_color=0D1117&title_color=f3701e&text_color=e8d8c9&hide_border=true" alt="Top Languages" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasil-7&layout=compact&bg_color=0D1117&title_color=f3701e&text_color=e8d8c9&hide_border=true" alt="Top Languages" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=wasil-7&bg_color=0D1117&title_color=f3701e&text_color=e8d8c9&icon_color=4b607f&show_icons=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://readme-stats.demolab.com/api?username=wasil-7&bg_color=0D1117&title_color=f3701e&text_color=e8d8c9&icon_color=4b607f&show_icons=true&hide_border=true" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wasil-7&background=0D1117&ring=f3701e&fire=f3701e&currStreakNum=e8d8c9&sideNums=e8d8c9&currStreakLabel=4b607f&sideLabels=4b607f&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=wasil-7&background=0D1117&ring=f3701e&fire=f3701e&currStreakNum=e8d8c9&sideNums=e8d8c9&currStreakLabel=4b607f&sideLabels=4b607f&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br>
 <hr style="border: 1px solid #f3701e;">
 <div align="center">
-  <!-- quote-start -->
-  <i>"I'm going to make him an offer he can't refuse." — The Godfather</i>
-  <!-- quote-end -->
+  <br>
+  <i>"In case I don't see ya, good afternoon, good evening, and good night." — The Truman Show</i>
+  <br>
 </div>
