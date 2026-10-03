@@ -8,7 +8,7 @@ username = "wasilll"
 tmdb_key = os.environ.get("TMDB_API_KEY")
 
 # Extract 5/5 movies from Letterboxd
-res = requests.get(f"https://letterboxd.com/{username}/films/rated/5/", headers={'User-Agent': 'Mozilla/5.0'})
+res = requests.get(f"https://letterboxd.com/{username}/films/rated/5/", headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'})
 soup = BeautifulSoup(res.text, 'html.parser')
 movies = [img['alt'] for img in soup.select('.film-poster img')]
 
