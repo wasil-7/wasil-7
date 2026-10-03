@@ -37,7 +37,7 @@ Data Science undergrad at FAST-NUCES. I build pragmatic AI pipelines, design sca
 | Directory | Description | Architecture |
 | :--- | :--- | :--- |
 | **[`Directors-cut`](https://github.com/wasil-7/AI-UNO)** | Probabilistic decision engine utilizing Expectimax/Minimax algorithms. | `Godot` `Python` `AI Search` |
-| **[`AtmosFlow`](https://github.com/wasil-7/weather-predictory)** | Standalone methodology for time-series predictive modeling & automated deployment. | `XGBoost` `Pandas` `MLOps` |
+| **[`AtmosFlow`](https://github.com/wasil-7/AtmosFlow)** | Standalone methodology for time-series predictive modeling & automated deployment. | `XGBoost` `Pandas` `MLOps` |
 | **[`Rideflow`](https://github.com/wasil-7/RideFlow)** | Relational schemas enforcing strict transactional consistency for real-time routing. | `Node.js` `Express` `MySQL` |
 | **[`Project Obsidian`](https://github.com/Armubakh/Obsidian)** | Centralized esports backend with JWT-based RBAC and state normalization. | `Node.js` `FastAPI` `React` |
 
