@@ -1,48 +1,61 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/95/8e/33/958e33cb9b699a6cfec9e75eb82e8eb4.gif" width="600" style="border-radius: 10px;" alt="Haikyuu Kenma GIF" />
-  <br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=F3701E&center=true&vCenter=true&width=600&lines=Muhammad+Wasil+Kayani;Deploying+Agentic+Workflows;Engineering+the+Unseen" alt="Typing Header" />
   <br>
+  <h1>Wasil Kayani</h1>
   <i>"Logic. Loops. Limer."</i>
+  <br><br>
 </div>
-<br>
 
-- ⚙️ **Current Focus:** Architecting spatial intelligence pipelines and deterministic agentic workflows.
-- 🔬 **Research Node:** Computational Aesthetics (Agentic AI vs. Classical Art eras).
-<br>
+### 👨‍💻 About Me
+Data Science undergrad at FAST-NUCES. I build pragmatic AI pipelines, design scalable backend architectures, and develop deterministic automation loops. When I am away from the terminal, I'm usually theorizing about probabilistic decision engines or fine-tuning predictive models.
 
-<div align="center">
-  <h3>🛠️ The Arsenal</h3>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,js,ts,cpp,nodejs,express,fastapi,mysql,postgres,sqlite,react,tailwind,linux,git,godot,opencv,flask&theme=dark" alt="Tech Stack" /></a>
-</div>
-<br>
+**Research & Engineering Domains:**
+* 🧠 **XAI & Research:** Computational Aesthetics (Agentic AI vs. Historical Art eras).
+* ⚙️ **AI/ML & Automation:** MLOps, deterministic automation loops, and multi-modal RAG systems.
+* 👁️ **Areas of Interest:** Spatial Intelligence-currently exploring 3D Gaussian Splatting and SLAM.
 
-### Projects Grid
+### 🌐 Socials
+<p align="left">
+  <a href="https://discordapp.com/users/mwasil45"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://www.instagram.com/w4sil_/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.linkedin.com/in/wasilkayani/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:wasil8220@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
+### 🛠️ The Arsenal
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" /><br>Python</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" /><br>JavaScript</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" /><br>C++</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" /><br>React</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" /><br>Node.js</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" /><br>MySQL</td>
+  </tr>
+</table>
+
+### 🚀 Featured Projects
 | Directory | Description | Architecture |
 | :--- | :--- | :--- |
-| **[`uno-directors-cut`](https://github.com/wasil-7/uno-directors-cut)** | Probabilistic decision engine utilizing Expectimax/Minimax algorithms. | `Godot` `Python` `AI Search` |
-| **[`mlops-architecture`](https://github.com/wasil-7/nastp-mlops-architecture)** | Methodology overview for time-series predictive modeling & automated deployment. | `XGBoost` `Pandas` `MLOps` |
-| **[`rideflow-dispatch`](https://github.com/wasil-7/rideflow-dispatch)** | Relational schemas enforcing strict transactional consistency for real-time routing. | `Node.js` `Express` `MySQL` |
-| **[`obsidian-platform`](https://github.com/wasil-7/obsidian-platform)** | Centralized esports backend with JWT-based RBAC and state normalization. | `Node.js` `FastAPI` `React` |
+| **[`Directors-cut`](https://github.com/wasil-7/uno-directors-cut)** | Probabilistic decision engine utilizing Expectimax/Minimax algorithms. | `Godot` `Python` `AI Search` |
+| **[`AtmosFlow`](https://github.com/wasil-7/weather-predictory)** | Standalone methodology for time-series predictive modeling & automated deployment. | `XGBoost` `Pandas` `MLOps` |
+| **[`Rideflow`](https://github.com/wasil-7/rideflow-dispatch)** | Relational schemas enforcing strict transactional consistency for real-time routing. | `Node.js` `Express` `MySQL` |
+| **[`Project Obsidian`](https://github.com/wasil-7/obsidian-platform)** | Centralized esports backend with JWT-based RBAC and state normalization. | `Node.js` `FastAPI` `React` |
+
+### 📊 GitHub Activity
+<div align="center">
+  <img src="https://github-readme-activity-graph.tarptaeya.com/graph?username=wasil-7&bg_color=0D1117&color=e8d8c9&line=f3701e&point=e8d8c9&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <br><br>
+  <img src="https://readme-stats.demolab.com/api/top-langs/?username=wasil-7&layout=compact&bg_color=0D1117&title_color=f3701e&text_color=e8d8c9&hide_border=true" alt="Top Languages" />
+  <br><br>
+  <img src="https://readme-stats.demolab.com/api?username=wasil-7&bg_color=0D1117&title_color=f3701e&text_color=e8d8c9&icon_color=4b607f&show_icons=true&hide_border=true" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://streak-stats.demolab.com/?user=wasil-7&background=0D1117&ring=f3701e&fire=f3701e&currStreakNum=e8d8c9&sideNums=e8d8c9&currStreakLabel=4b607f&sideLabels=4b607f&hide_border=true" alt="GitHub Streak" />
+</div>
 
 <br>
-
+<hr style="border: 1px solid #f3701e;">
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=4b607f&height=2" alt="divider" />
-<br><br>
-
-<!-- Activity Graph using a stable alternative host -->
-<img src="https://github-readme-activity-graph.tarptaeya.com/graph?username=wasil-7&bg_color=0D1117&color=e8d8c9&line=f3701e&point=e8d8c9&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-<br><br>
-
-<!-- Top Languages using stable demolab -->
-<img src="https://readme-stats.demolab.com/api/top-langs/?username=wasil-7&layout=compact&bg_color=0D1117&title_color=f3701e&text_color=e8d8c9&hide_border=true" alt="Top Languages" />
-<br><br>
-
-<!-- Stats & Streak side-by-side using stable demolab -->
-<img src="https://readme-stats.demolab.com/api?username=wasil-7&bg_color=0D1117&title_color=f3701e&text_color=e8d8c9&icon_color=4b607f&show_icons=true&hide_border=true" alt="GitHub Stats" />
-&nbsp;
-<img src="https://streak-stats.demolab.com/?user=wasil-7&background=0D1117&ring=f3701e&fire=f3701e&currStreakNum=e8d8c9&sideNums=e8d8c9&currStreakLabel=4b607f&sideLabels=4b607f&hide_border=true" alt="GitHub Streak" />
-
+  <!-- quote-start -->
+  <i>"I'm going to make him an offer he can't refuse." — The Godfather</i>
+  <!-- quote-end -->
 </div>
